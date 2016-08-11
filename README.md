@@ -3,6 +3,10 @@
 * [架构知识点整理](http://www.jiagoushuo.com/tags.html)
 * [Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》](https://github.com/qibaoguang/Spring-Boot-Reference-Guide/blob/master/SUMMARY.md)
 
+### 2016.08.11
+* [浅谈web架构之架构设计](http://mp.weixin.qq.com/s?__biz=MzIxMTIwNDcxOA==&mid=2649787051&idx=1&sn=2c0bfb7f64971b2a2ed93402e2d1ccd2&scene=0#wechat_redirect)
+* [互联网架构为什么要做服务化？](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959519&idx=1&sn=065074b135fc9cb243abe897261e1a72&scene=0#wechat_redirect)
+
 ### 2016.08.10
 * [不谈架构，看看如何从代码层面优化系统性能！](http://mp.weixin.qq.com/s?__biz=MjM5MDQ2NjYzNQ==&mid=2656595738&idx=1&sn=418718992942904c72499bae0bc063d1&scene=23&srcid=0810xVMFFZMRSQMaJLLzRDne#rd)
 * [深入浅出 Redis Cluster 原理，来自一次干货分享](http://mp.weixin.qq.com/s?__biz=MzA3MzYwNjQ3NA==&mid=2651296996&idx=2&sn=5f4811d73e74e2a63b1cb0d3d532862a&scene=23&srcid=08093FVw9nBy03Mw6q8cQ2ve#rd)   
