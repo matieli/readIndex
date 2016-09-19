@@ -3,6 +3,86 @@
 * [架构知识点整理](http://www.jiagoushuo.com/tags.html)
 * [Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》](https://github.com/qibaoguang/Spring-Boot-Reference-Guide/blob/master/SUMMARY.md)
 
+### 2016.09.18
+* [有效处理Java异常三原则](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477491&idx=1&sn=985b7b09222506a7b98559b01b44d418&scene=0#rd)
+* [JVM类加载的那些事](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477491&idx=2&sn=2531879e3e9a3f91da3cabc5b2148cd3&scene=0#rd)
+* [lvs为何不能完全替代DNS轮询](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959595&idx=1&sn=5f0633afd24c547b895f29f6538baa99&scene=2&srcid=0918jw94iCrM8IRB7v9MjEPl#rd)
+* [京东商城交易系统的演进之路](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598159&idx=1&sn=dce3e88f4c4816ef576bcdcc730eb712&scene=0#rd)
+
+
+### 2016.09.12
+* [京东支付平台总体架构设计图](http://mp.weixin.qq.com/s?__biz=MjM5ODMxNzY0MA==&mid=2650919502&idx=3&sn=aeaf679847bfce29709a22c8be93788b&scene=2&srcid=0911eVItZzTyBzWLgf6lACSQ#rd)
+* [微信支付商户系统的架构揭秘](http://mp.weixin.qq.com/s?__biz=MjM5ODMxNzY0MA==&mid=2650919502&idx=1&sn=0865bab62bf84b00ba98b3b41d5542e4&scene=2&srcid=09116X7gewpY4fCodnLnpF6n#rd)
+
+### 2016.09.10
+* [付钱拉后台支付系统的架构设计理念和业务痛点](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598136&idx=1&sn=234fea3caca2cda0d4a4b17fd4541684&scene=0#rd)
+* [分库分表的几种常见形式以及可能遇到的难题](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598135&idx=1&sn=2f1daf51d92b9c5ed06d9422fdd19d49&scene=0#rd)
+
+### 2016.09.07
+* [Java for-each循环解惑](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477471&idx=1&sn=0dbb6500001c86ca8fc415918e09252a&scene=0#rd)
+* [以平安科技为例，谈金融云平台的技术选型、架构和难点](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598086&idx=1&sn=f9383422d6d3109d995b7c849d41cdd0&scene=0#rd)
+* [分布式事务：不过是在一致性、吞吐量和复杂度之间，做一个选择](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598134&idx=1&sn=f5f73354d162a7561b3d73c204a4d1f5&scene=0#rd)
+* [很认真的聊一聊程序员的自我修养](http://mp.weixin.qq.com/s?__biz=MjM5NzQ3ODAwMQ==&mid=2686978238&idx=1&sn=e6287f5a0c9276059b67ffaace1044f6&scene=0#rd)
+
+
+### 2016.09.05
+* [Java并发的四种风味：Thread、Executor、ForkJoin和Actor](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477462&idx=1&sn=a64dfedb9cf431b3b47cfdae24424bbf&scene=0#rd)
+* [高并发Java（4）：无锁](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477462&idx=2&sn=33785a99e8db0202e0db4fda02dc5003&scene=0#rd)
+
+
+### 2016.09.03
+* [为什么要使用SLF4J而不是Log4J](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477458&idx=1&sn=51c8b98141490024825d485333b46a4f&scene=0#rd)
+* [高并发Java（2）：多线程基础](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477460&idx=2&sn=d5204455d353b75279f0abb7ec158069&scene=0#rd)
+
+### 2016.09.02
+* [高并发Java（1）：前言](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477448&idx=2&sn=8c0bb2f16545c650b90d64c74fed47f7&scene=0#rd)
+* [并发性能优化 ： 降低锁粒度](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477445&idx=2&sn=84dc3c866a6ac2c06f8555c9ab2f828b&scene=0#rd)
+* [HashMap的实现与优化](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477440&idx=2&sn=c0c5df26a40e1b081ff015690ce09055&scene=0#rd)
+* [Web基础架构：负载均衡和LVS](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477440&idx=1&sn=72d173f9e470e2610d588e30a91250ee&scene=0#rd)
+* [高并发Java（3）：Java内存模型和线程安全](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477456&idx=3&sn=3c34a7d6440bf07e3cedbbade2b8aff0&scene=0#rd)
+* [十分钟理解Java中的弱引用](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477448&idx=3&sn=e962b23a1a13eb17536d8a9065f19b28&scene=0#rd)
+* [gRPC 1.0发布，来自Google的RPC框架](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598084&idx=1&sn=2e1d25597fe4b1527040183798afb314&scene=0#rd)
+* [JAVA服务治理实践之无侵入的应用服务监控](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598052&idx=1&sn=631897c7a2792dd3a67774eedc966e29&scene=0#rd)
+
+
+### 2016.08.27
+* [深入理解JDBC的超时设置](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477438&idx=1&sn=53c26a85d0af8c18a6f9d15d242c01be&scene=0#rd)
+
+### 2016.08.26
+* [Web服务器的工作原理](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477433&idx=1&sn=6a50cb4a24f0db5e3d034cfd22fead89&scene=0#rd)
+* [Spring @Transactional工作原理](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477435&idx=1&sn=176194dfc4d451a425f266c84c841e8c&scene=0#rd)
+* [架构漫谈（十）：软件的架构拆分之道](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597997&idx=1&sn=f117fd097aa8fe4b0b0101db205fe433&scene=0#rd)
+
+
+### 2016.08.25
+* [为什么说要搞定微服务架构，先搞定RPC框架？](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959553&idx=1&sn=c1084e91875721c5f6baf544450afa38&scene=2&srcid=0825M5ch6pHGCP1FnnQNyVFg#rd)
+
+### 2016.08.24
+* [程序员简易成长指南：从菜鸟码农到架构师](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650993847&idx=1&sn=5777f5c5274f07bac3aa115b7e42541a&scene=0#rd)
+
+### 2016.08.23
+* [为什么程序员要学GC](http://mp.weixin.qq.com/s?__biz=MjM5Njc0MjIwMA==&mid=2649639666&idx=1&sn=edf3c24ee36288c42ab5724438693f7f&scene=2&srcid=0823ng0G3XstA3RSxCZMmIOB#rd)
+* [深入浅出 ThreadLocal](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477422&idx=2&sn=7c44bc748530214bfb1344a2f012cc99&scene=0#rd)
+* [Java中的注解是如何工作的？](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477420&idx=2&sn=1ae3b78f6b07b387d1d64e5198d1f05d&scene=0#rd)
+* [深入浅出 synchronized](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477431&idx=2&sn=e5401b60b7814685be3723917dfe038c&scene=0#rd)
+* [IntelliJ IDEA的光芒会盖过Eclipse吗](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477431&idx=1&sn=244196d18eb07d2f19057c45e3f7ea7b&scene=0#rd)
+* [撇开代码不说，谈谈我对架构的6个冷思考](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597972&idx=1&sn=b0ff7d1130442c318bde89564eb433b3&scene=0#rd)
+* [华为内部如何实施微服务架构？基本就靠这5大原则](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597985&idx=1&sn=5ca3f1a574bf61322abca404f64b6b49&scene=0#rd)
+* [移动支付背后的高可用架构丨视频+PPT下载](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650993844&idx=1&sn=98771dd48d40b63588aad8a6b5b6e661&scene=0#rd)
+* [不负责问答：怎样才能叫高级程序员？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650993842&idx=1&sn=c5d442786d39e4400bf88acce297ede7&scene=0#rd)
+
+### 2016.08.21
+* [深入分析Java ClassLoader原理](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477418&idx=1&sn=0db123b065921f807e09fbb0e4af6aa4&scene=24&srcid=0821yOkemkUi5pMz7kNgYzuY#rd)
+* [降低Java垃圾回收开销的5条建议](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477397&idx=1&sn=4c289732d65deb0ac9e4cca168f77f7c&scene=24&srcid=0821wUo8D9Ehqkdw6qdo4L7D#rd)
+* [聊一聊ThreadLocal](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477392&idx=3&sn=154a365950a6c2d5210974448025c4b5&scene=24&srcid=0821O7IzHOZRGQYA86LZhM3N#rd)
+* [4 张 GIF 图帮助你理解二叉查找树](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477367&idx=1&sn=0fc7a1191c1d9ec56db985aa835e1a25&scene=24&srcid=0821hqUHMoQLeKqJ4oyyQ7jn#rd)
+* [Java enum的使用以及字符串其字符串之间的转换](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477367&idx=2&sn=3f9dab023764da289518ea66dac9053b&scene=24&srcid=0821Xt7K4WGSRRdLgAv1hYQI#rd)
+
+### 2016.08.18
+* [先厘清服务治理与组织架构的关系，再来谈微服务吧](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597249&idx=1&sn=d82b022592efed30db6ec923d84b1957&scene=2&srcid=0523J49NVU6Xs1fquLWV4BD1#rd)
+* [这种员工，将来都是做高管的料！](http://mp.weixin.qq.com/s?__biz=MzA5NzA4ODk0OQ==&mid=2651987184&idx=1&sn=2b1d2350bc0146debbf09758e7ed8de5&scene=2&srcid=0621Qh22IJ13Vx05a6tsGejb#rd)
+
+
 ### 2016.08.11
 * [浅谈web架构之架构设计](http://mp.weixin.qq.com/s?__biz=MzIxMTIwNDcxOA==&mid=2649787051&idx=1&sn=2c0bfb7f64971b2a2ed93402e2d1ccd2&scene=0#wechat_redirect)
 * [互联网架构为什么要做服务化？](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959519&idx=1&sn=065074b135fc9cb243abe897261e1a72&scene=0#wechat_redirect)
